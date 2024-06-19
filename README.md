@@ -26,7 +26,6 @@ The girl on the right that she will speak for me in the virtual world.
 <code><a href="https://sass-lang.com"><img height="30"  title="sass" src="https://skillicons.dev/icons?i=sass" /></a></code>
 <code><a href="https://styled-components.com"><img height="30"  title="styledcomponents" src="https://skillicons.dev/icons?i=styledcomponents" /></a></code>
 <code><a href="https://nodejs.org"><img height="30"  title="nodejs" src="https://skillicons.dev/icons?i=nodejs" /></a></code>
-
 <code><a href="https://deno.com"><img height="30"  title="deno" src="https://skillicons.dev/icons?i=deno" /></a></code>
 
 #### Frameworks / Libraries / Tools
